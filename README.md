@@ -2,9 +2,9 @@
 
 Equipe de estudantes: *Emanuel Piveta Pozzobon, Henrique Valente Nogueira, Pedro Coelho Gimenes de Freitas e Rafael Dalacorte Erdmann*
 
-*Ilum - Escola de Ciência, 2024*
-
 *Prof. Dr. Vinicius Francisco Wasques*
+
+*Ilum - Escola de Ciência, 2024*
 
 Este repositório compila o trabalho final da disciplina de Álgebra Linear Computacional, onde o grupo explorou as questões matemáticas da Tomografia Computadorizada. Aqui encontra-se: um relatório escrito em formato pdf, diagramado em LaTeX conforme modelo disponibilizado pelo professor, e dois cadernos Python, onde analisa-se a reconstrução de imagens tomográficas e a comparação de métodos iterativos. 
 
