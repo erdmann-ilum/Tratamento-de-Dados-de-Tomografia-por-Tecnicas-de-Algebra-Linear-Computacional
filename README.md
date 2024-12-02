@@ -6,7 +6,7 @@ Equipe de estudantes: *Emanuel Piveta Pozzobon, Henrique Valente Nogueira, Pedro
 
 *Ilum - Escola de Ciência, 2024*
 
-Este repositório compila o trabalho final da disciplina de Álgebra Linear Computacional, onde o grupo explorou as questões matemáticas da Tomografia Computadorizada. Aqui encontra-se: um relatório escrito em formato pdf, diagramado em LaTeX conforme modelo disponibilizado pelo professor, e dois cadernos Python, onde analisa-se a reconstrução de imagens tomográficas e a comparação de métodos iterativos. 
+Este repositório compila o trabalho final da disciplina de Álgebra Linear Computacional, onde o grupo explorou as questões matemáticas da Tomografia Computadorizada. Aqui encontra-se: um relatório escrito em formato pdf, diagramado em LaTeX conforme modelo disponibilizado pelo professor, e dois cadernos Jupyter, onde analisa-se a reconstrução de imagens tomográficas e a comparação de métodos iterativos. 
 
 O caderno principal cumpre duas funções: explica como utilizar a biblioteca ```Tomopy``` para reconstruir imagens tomográficas a partir de dados reais, extraídos do repositório ```TomoBank``` e explica nossa implementação do algoritmo de Técnicas de Reconstrução Algébrica (TRA, também conhecido como método de Kaczmarz) conforme descrito por Anton & Rorrers (2012). Os resultados obtidos não obtiveram a exatidão esperada, resultando em imagens distorcidas.
 
