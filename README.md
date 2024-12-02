@@ -18,7 +18,7 @@ O caderno principal cumpre duas funções: explica como utilizar a biblioteca ``
 - ```DXchange```
 - ```NumPy```
 - ```SciPy```
-- ```MatPlotLib``
+- ```MatPlotLib```
 
 ## IA Generativa
 Neste trabalho, houve utilização de Chat GPT 4.0 (licença gratuita de uso diário limitado) para auxílio nos códigos.
